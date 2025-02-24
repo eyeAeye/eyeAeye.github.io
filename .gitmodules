@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:eyeAeye/eyeAeye.github.io.git
 	branch = gh-pages
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

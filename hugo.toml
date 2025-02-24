@@ -1,0 +1,4 @@
+baseURL = 'https://iai.or.kr/'
+languageCode = 'en-us'
+title = 'iAi blog'
+theme = 'ananke'
