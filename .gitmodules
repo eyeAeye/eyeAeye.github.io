@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:eyeAeye/eyeAeye.github.io.git
+	branch = gh-pages
