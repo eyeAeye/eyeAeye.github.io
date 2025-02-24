@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://iai.or.kr/</loc>
+    <lastmod>2025-02-24T18:07:19+09:00</lastmod>
+  </url><url>
+    <loc>https://iai.or.kr/posts/</loc>
+    <lastmod>2025-02-24T18:07:19+09:00</lastmod>
+  </url><url>
+    <loc>https://iai.or.kr/categories/</loc>
+  </url><url>
+    <loc>https://iai.or.kr/tags/</loc>
+  </url>
+</urlset>
