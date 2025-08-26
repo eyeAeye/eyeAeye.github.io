@@ -1,0 +1,7 @@
+<div id="quiz-root"></div>
+
+<!-- Chart.js (없으면 quiz.js가 자동 로드도 시도하지만, CDN을 권장) -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+{{ $quiz := resources.Get "js/quiz.js" | resources.Minify | resources.Fingerprint }}
+<script defer src="{{ $quiz.RelPermalink }}"></script>

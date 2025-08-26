@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "title": "다섯 특성 자기점검",
+  "categories": [
+    {
+      "key": "탐",
+      "label": "탐",
+      "items": [
+        { "id": "T1", "text": "나는 매력적인 것을 보면 가지고싶다.", "reverse": false },
+        { "id": "T2", "text": "차분하기보다 감정적일 때가 많다.", "reverse": false },
+        { "id": "T3", "text": "행동이나 말로 다른 사람에게 상처를 주는 경우가 거의 없다.", "reverse": true },
+        { "id": "T4", "text": "나에게 필요한 물건들에 쉽게 애착하고 집착하는 편이다.", "reverse": false },
+        { "id": "T5", "text": "원하는 것을 얻을 때 기뻐하고 열정적이며 즐거움을 느낀다.", "reverse": false }
+      ]
+    },
+    {
+      "key": "진에",
+      "label": "진에",
+      "items": [
+        { "id": "J1", "text": "작은 계기만으로도 쉽게 화가 난다.", "reverse": false },
+        { "id": "J2", "text": "섬세하지 못하고, 냉담한 편이다.", "reverse": false },
+        { "id": "J3", "text": "말이나 행동으로 타인을 상처 입히는 경우가 있다.", "reverse": false },
+        { "id": "J4", "text": "다른 사람의 성공을 질투하거나 시기하는 마음이 자주 생긴다.", "reverse": false },
+        { "id": "J5", "text": "얼굴빛이 자주 굳어 있거나 우울해 보일 때가 많다.", "reverse": false },
+        { "id": "J6", "text": "부모, 친척, 스승 등에게 존중을 잘 표현하지 못한다.", "reverse": false }
+      ]
+    },
+    {
+      "key": "우치",
+      "label": "우치",
+      "items": [
+        { "id": "U1", "text": "사소한 일에도 쉽게 혼란스럽거나 어리둥절해진다.", "reverse": false },
+        { "id": "U2", "text": "말이나 행동에서 부주의하거나 잘못된 경우가 많다.", "reverse": false },
+        { "id": "U3", "text": "생각이나 말이 느리고 분명하지 못하다.", "reverse": false },
+        { "id": "U4", "text": "상황을 잘못 해석하거나 오해하는 경우가 많다.", "reverse": false },
+        { "id": "U5", "text": "스스로보다 타인의 판단이나 지시에 의존하는 편이다.", "reverse": false }
+      ]
+    },
+    {
+      "key": "자만",
+      "label": "자만",
+      "items": [
+        { "id": "Z1", "text": "아주 작은 일에도 쉽게 자만심이 생긴다.", "reverse": false },
+        { "id": "Z2", "text": "겸손한 말을 잘 하지 않는 편이다.", "reverse": false },
+        { "id": "Z3", "text": "부모나 스승 등에게 예의를 잘 표현하지 못한다.", "reverse": false },
+        { "id": "Z4", "text": "자신을 높이고 다른 사람을 깔보는 경향이 있다.", "reverse": false },
+        { "id": "Z5", "text": "존경, 명성, 칭찬을 강하게 바라는 편이다.", "reverse": false }
+      ]
+    },
+    {
+      "key": "심사",
+      "label": "심사",
+      "items": [
+        { "id": "S1", "text": "쉽게 산만해지거나 집중을 잃는다.", "reverse": false },
+        { "id": "S2", "text": "행동이나 말을 성급히 할 때가 많다.", "reverse": false },
+        { "id": "S3", "text": "잡담을 즐기고 기뻐하는 경우가 많다.", "reverse": false },
+        { "id": "S4", "text": "의심이 많고 자주 의혹을 품는다.", "reverse": false },
+        { "id": "S5", "text": "두려움이 많고, 주의력이 흐트러지는 경우가 종종 있다.", "reverse": false },
+        { "id": "S6", "text": "세상 일에서 벗어나 방황하거나 산만한 상태를 즐길 때가 있다.", "reverse": false }
+      ]
+    }
+  ],
+  "scoring": {
+    "method": "normalized_ratio_true",
+    "formula": "score(cat) = (true_count_adjusted) / (num_items)",
+    "reverse_rule": "reverse가 true인 문항은 True 응답 시 true_count에서 1을 빼고, False 응답 시 0을 더함(즉, 역채점)."
+  }
+}
