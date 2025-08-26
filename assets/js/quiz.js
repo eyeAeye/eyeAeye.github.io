@@ -1,5 +1,5 @@
 (() => {
-  const SPEC_URL = "/data/traits.json";
+  const SPEC_URL = "data/traits.json";
   const ROOT_ID = "quiz-root";
   const STORAGE_KEY = "five-traits-seq-answers";
 
