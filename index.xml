@@ -6,7 +6,25 @@
         <description>Recent content on iAi</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 24 Feb 2025 19:18:57 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>다섯 특성 테스트</title>
+        <link>http://localhost:1313/posts/five-traits-test/</link>
+        <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/five-traits-test/</guid>
+        <description>&lt;p&gt;각 문항에 대해 &lt;strong&gt;참이면 체크&lt;/strong&gt;하세요. 제출 버튼을 누르면 각 특성에 대한 점수가 0~1 사이의 값으로 계산됩니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;div id=&#34;quiz-root&#34;&gt;&lt;/div&gt;
+
+
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;script defer src=&#34;http://localhost:1313/js/quiz.min.48585dee97ca21d840246a21f485a2d4ab6e5f30b4a8d4d2ed05bd52d9e6da5c.js&#34;&gt;&lt;/script&gt;
+
+</description>
+        </item>
+        <item>
         <title>A Graceful Init</title>
         <link>http://localhost:1313/posts/a-graceful-init/</link>
         <pubDate>Mon, 24 Feb 2025 19:18:57 +0900</pubDate>
