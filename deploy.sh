@@ -4,7 +4,7 @@
 set -e
 
 echo "⚡ Building Hugo site..."
-hugo
+hugo --minify
 echo "✅ Build complete!"
 
 echo "📌 Committing and pushing changes in gh-pages (public folder)..."
