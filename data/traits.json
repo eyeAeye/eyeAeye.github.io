@@ -75,7 +75,7 @@
       "items": [
         { "id": "S1", "text": "쉽게 산만해지거나 집중을 잃는다.", "reverse": false },
         { "id": "S2", "text": "행동이나 말이 신속하다.", "reverse": false },
-        { "id": "S3", "text": "다른 사람과 잡담을 자주 하고, 잡담을 하는 것이 즐겁다.", "reverse": false },
+        { "id": "S3", "text": "말로 생각을 표현하는 것을 좋아하고, 논쟁을 즐긴다.", "reverse": false },
         { "id": "S4", "text": "싫어하거나 두려운 일이 별로 없고, 있더라도 어느샌가 신경쓰지 않게 된다.", "reverse": false },
         { "id": "S5", "text": "이것 저것 바라는 것이 많다.", "reverse": false },
         { "id": "S6", "text": "의심이 많고 자주 의혹을 품는다.", "reverse": false },
