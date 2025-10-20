@@ -1,46 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>iAi</title>
-        <link>https://iai.or.kr/</link>
-        <description>Recent content on iAi</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://iai.or.kr/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>다섯 특성 테스트</title>
-        <link>https://iai.or.kr/posts/five-traits-test/</link>
-        <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://iai.or.kr/posts/five-traits-test/</guid>
-        <description>&lt;p&gt;각 문항에 대해 &lt;strong&gt;참이면 체크&lt;/strong&gt;하세요. 제출 버튼을 누르면 각 특성에 대한 점수가 0~1 사이의 값으로 계산됩니다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;div id=&#34;quiz-root&#34;&gt;&lt;/div&gt;
-
-
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;script defer src=&#34;https://iai.or.kr/js/quiz.min.67713bfd44997d2f8d7c9fde920168de6993d42c4981bcac8932efc727918762.js&#34;&gt;&lt;/script&gt;
-
-</description>
-        </item>
-        <item>
-        <title>A Graceful Init</title>
-        <link>https://iai.or.kr/posts/a-graceful-init/</link>
-        <pubDate>Mon, 24 Feb 2025 19:18:57 +0900</pubDate>
-        
-        <guid>https://iai.or.kr/posts/a-graceful-init/</guid>
-        <description>&lt;ol start=&#34;0&#34;&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;From the &lt;a class=&#34;link&#34; href=&#34;https://github.com/Integerous/Integerous.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Theme(stack) config: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/config/site&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;stack documentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;시키는 대로 하니, 설명대로. 좋고좋고!&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iAi</title><link>https://iai.or.kr/</link><description>Recent content on iAi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://iai.or.kr/index.xml" rel="self" type="application/rss+xml"/><item><title>다섯 특성 테스트</title><link>https://iai.or.kr/posts/five-traits-test/</link><pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate><guid>https://iai.or.kr/posts/five-traits-test/</guid><description>&lt;p>각 문항에 대해 &lt;strong>참이면 체크&lt;/strong>하세요. 제출 버튼을 누르면 각 특성에 대한 점수가 0~1 사이의 값으로 계산됩니다.&lt;/p>
+&lt;hr>
+&lt;div id="quiz-root">&lt;/div>
+&lt;script src="https://cdn.jsdelivr.net/npm/chart.js">&lt;/script>
+&lt;script defer src="https://iai.or.kr/js/quiz.min.67713bfd44997d2f8d7c9fde920168de6993d42c4981bcac8932efc727918762.js">&lt;/script></description></item><item><title>A Graceful Init</title><link>https://iai.or.kr/posts/a-graceful-init/</link><pubDate>Mon, 24 Feb 2025 19:18:57 +0900</pubDate><guid>https://iai.or.kr/posts/a-graceful-init/</guid><description>&lt;ol start="0">
+&lt;li>&lt;a class="link" href="https://gohugo.io" target="_blank" rel="noopener"
+>Hugo&lt;/a>&lt;/li>
+&lt;li>From the &lt;a class="link" href="https://github.com/Integerous/Integerous.github.io" target="_blank" rel="noopener"
+>guide&lt;/a>&lt;/li>
+&lt;li>Theme(stack) config: &lt;a class="link" href="https://stack.jimmycai.com/config/site" target="_blank" rel="noopener"
+>stack documentation&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>시키는 대로 하니, 설명대로. 좋고좋고!&lt;/p></description></item></channel></rss>
