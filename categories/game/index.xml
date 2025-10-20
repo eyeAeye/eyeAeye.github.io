@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iAi</title><link>https://iai.or.kr/</link><description>Recent content on iAi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 19:00:00 +0900</lastBuildDate><atom:link href="https://iai.or.kr/index.xml" rel="self" type="application/rss+xml"/><item><title>에스카 &amp; 로지의 아틀리에</title><link>https://iai.or.kr/posts/atelier-escha-logy/</link><pubDate>Mon, 20 Oct 2025 19:00:00 +0900</pubDate><guid>https://iai.or.kr/posts/atelier-escha-logy/</guid><description>&lt;h1 id="10년전에서-온-숙제">10년전에서 온 숙제
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Game on iAi</title><link>https://iai.or.kr/categories/game/</link><description>Recent content in Game on iAi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 19:00:00 +0900</lastBuildDate><atom:link href="https://iai.or.kr/categories/game/index.xml" rel="self" type="application/rss+xml"/><item><title>에스카 &amp; 로지의 아틀리에</title><link>https://iai.or.kr/posts/atelier-escha-logy/</link><pubDate>Mon, 20 Oct 2025 19:00:00 +0900</pubDate><guid>https://iai.or.kr/posts/atelier-escha-logy/</guid><description>&lt;h1 id="10년전에서-온-숙제">10년전에서 온 숙제
 &lt;/h1>&lt;p>10년 전에서 온 PSVita용 에스카&amp;amp;로지의 아틀리에를 클리어. 플래티넘 달성.&lt;/p>
 &lt;p>컨트롤러 문제가 생겨서 더 이상 손대기 어려웠던 PSVita였지만, 커스텀 펌웨어가 생겨서 듀얼쇼크와 연결할 수 있게 되어 플레이 할 방법이 생겼다.
 언젠가는 읽어야지 하고 한켠에 쌓아둔 책들처럼, 긴 시간이 지나도 남아있는 숙제들을 하나씩 버리고 가야겠다는 생각에 시작.&lt;/p>
@@ -55,16 +55,4 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>성장한 에스카. 그리고 재회의 행복. 10년이 지난 지금의 나. 그리고 또 다른 10년 후에는 어떨까.&lt;/p>
-&lt;p>남겨둔 숙제도, 숙제를 버리지 못하는 것도.&lt;/p></description></item><item><title>다섯 특성 테스트</title><link>https://iai.or.kr/posts/five-traits-test/</link><pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate><guid>https://iai.or.kr/posts/five-traits-test/</guid><description>&lt;p>각 문항에 대해 &lt;strong>참이면 체크&lt;/strong>하세요. 제출 버튼을 누르면 각 특성에 대한 점수가 0~1 사이의 값으로 계산됩니다.&lt;/p>
-&lt;hr>
-&lt;div id="quiz-root">&lt;/div>
-&lt;script src="https://cdn.jsdelivr.net/npm/chart.js">&lt;/script>
-&lt;script defer src="https://iai.or.kr/js/quiz.min.67713bfd44997d2f8d7c9fde920168de6993d42c4981bcac8932efc727918762.js">&lt;/script></description></item><item><title>A Graceful Init</title><link>https://iai.or.kr/posts/a-graceful-init/</link><pubDate>Mon, 24 Feb 2025 19:18:57 +0900</pubDate><guid>https://iai.or.kr/posts/a-graceful-init/</guid><description>&lt;ol start="0">
-&lt;li>&lt;a class="link" href="https://gohugo.io" target="_blank" rel="noopener"
->Hugo&lt;/a>&lt;/li>
-&lt;li>From the &lt;a class="link" href="https://github.com/Integerous/Integerous.github.io" target="_blank" rel="noopener"
->guide&lt;/a>&lt;/li>
-&lt;li>Theme(stack) config: &lt;a class="link" href="https://stack.jimmycai.com/config/site" target="_blank" rel="noopener"
->stack documentation&lt;/a>&lt;/li>
-&lt;/ol>
-&lt;p>시키는 대로 하니, 설명대로. 좋고좋고!&lt;/p></description></item></channel></rss>
+&lt;p>남겨둔 숙제도, 숙제를 버리지 못하는 것도.&lt;/p></description></item></channel></rss>
