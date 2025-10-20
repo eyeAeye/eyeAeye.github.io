@@ -1,7 +1,7 @@
 ---
 title: "에스카 & 로지의 아틀리에"
 date: 2025-10-20T19:00:00+09:00
-draft: true
+draft: false
 tags: ["숙제", "PSVita"]
 categories: ["Game"]
 ---
